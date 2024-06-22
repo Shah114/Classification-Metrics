@@ -14,7 +14,7 @@ Classification metrics are essential tools used to evaluate the performance of c
 7. Confusion Matrix
 
 <br/>
-**1. Accuracy**
+1. Accuracy<br/>
 Definition:
 Accuracy is the ratio of correctly predicted instances to the total instances.
 
@@ -22,7 +22,7 @@ Interpretation:
 Accuracy is useful when the classes are balanced. However, it can be misleading in cases of imbalanced classes.<br/>
 <br/>
 <br/>
-**2. Precision**
+**2. Precision**<br/>
 Definition:
 Precision (also known as Positive Predictive Value) is the ratio of correctly predicted positive observations to the total predicted positives.
 
@@ -30,7 +30,7 @@ Interpretation:
 High precision indicates a low false positive rate. It is especially useful in scenarios where false positives are costly.<br/>
 <br/>
 <br/>
-3. Recall (Sensitivity)
+3. Recall (Sensitivity)<br/>
 Definition:
 Recall (also known as Sensitivity or True Positive Rate) is the ratio of correctly predicted positive observations to all observations in the actual class.
 
@@ -38,7 +38,7 @@ Interpretation:
 High recall indicates a low false negative rate. It is critical in scenarios where missing a positive case is costly.<br/>
 <br/>
 <br/>
-4. F1 Score
+4. F1 Score<br/>
 Definition:
 The F1 Score is the harmonic mean of Precision and Recall. It combines the advantages of both metrics.
  
@@ -46,7 +46,7 @@ Interpretation:
 The F1 Score is a good measure of a test's accuracy and is useful when the class distribution is imbalanced.<br/>
 <br/>
 <br/>
-5. Specificity
+5. Specificity<br/>
 Definition:
 Specificity (also known as True Negative Rate) is the ratio of correctly predicted negative observations to all actual negatives.
 
@@ -54,7 +54,7 @@ Interpretation:
 High specificity indicates a low false positive rate, which is important in scenarios where the cost of false positives is high.<br/>
 <br/>
 <br/>
-6. ROC-AUC Score
+6. ROC-AUC Score<br/>
 Definition:
 The Receiver Operating Characteristic - Area Under Curve (ROC-AUC) Score measures the ability of the classifier to distinguish between classes.
 
@@ -62,7 +62,7 @@ Interpretation:
 The ROC-AUC score ranges from 0 to 1. A model with a score closer to 1 indicates better performance. It is useful for evaluating the trade-off between true positive and false positive rates.<br/>
 <br/>
 <br/>
-7. Confusion Matrix
+7. Confusion Matrix<br/>
 Definition:
 A Confusion Matrix is a table used to describe the performance of a classification model. It displays the true positives, true negatives, false positives, and false negatives.
 
