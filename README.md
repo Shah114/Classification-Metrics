@@ -14,7 +14,7 @@ Classification metrics are essential tools used to evaluate the performance of c
 7. Confusion Matrix
 
 <br/>
-**1. Accuracy**
+1. Accuracy
 Definition:
 Accuracy is the ratio of correctly predicted instances to the total instances.
 
