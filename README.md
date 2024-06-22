@@ -14,14 +14,14 @@ Classification metrics are essential tools used to evaluate the performance of c
 7. Confusion Matrix
 
 
-1. Accuracy
+**1. Accuracy**
 Definition:
 Accuracy is the ratio of correctly predicted instances to the total instances.
 
 Interpretation:
 Accuracy is useful when the classes are balanced. However, it can be misleading in cases of imbalanced classes.
 
-2. Precision
+**2. Precision**
 Definition:
 Precision (also known as Positive Predictive Value) is the ratio of correctly predicted positive observations to the total predicted positives.
 
