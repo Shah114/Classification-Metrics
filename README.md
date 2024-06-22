@@ -13,6 +13,7 @@ Classification metrics are essential tools used to evaluate the performance of c
 6. ROC-AUC Score
 7. Confusion Matrix
 
+
 1. Accuracy
 Definition:
 Accuracy is the ratio of correctly predicted instances to the total instances.
