@@ -72,9 +72,9 @@ The confusion matrix provides a detailed breakdown of correct and incorrect pred
 <br/>
 
 
-**Usage**
+**Usage**<br/>
 When evaluating a classification model, it is important to consider multiple metrics to get a comprehensive view of its performance. Depending on the specific problem and the costs associated with false positives and false negatives, different metrics may be prioritized.<br/>
 <br/>
 <br/>
-**Conclusion**
+**Conclusion**<br/>
 Understanding and using classification metrics effectively allows for better model evaluation and improvement. By analyzing these metrics, one can make informed decisions about model performance and necessary adjustments to achieve optimal results.
