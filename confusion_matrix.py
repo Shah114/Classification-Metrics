@@ -23,7 +23,7 @@ df.head()
 df.isnull().sum()
 
 
-"""**Decision Tree clf**"""
+"""Decision Tree clf"""
 
 # Load libraries
 import pandas as pd
